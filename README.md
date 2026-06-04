@@ -31,8 +31,8 @@ Acá voy subiendo los trabajos prácticos y proyectos que desarrollo a lo largo 
 En mis tiempos libres me gusta experimentar con tecnologías que me llaman la atención y desafiarme a aprender herramientas nuevas:
 
 ### 👁️ Computer Vision (Visión por Computadora)
-* **Hand Tracking & Vectorización en Tiempo Real:** Mi primer acercamiento serio a la visión artificial. Desarrollé un script en Python utilizando **OpenCV** y la nueva API de **MediaPipe Tasks** para capturar el feed de la webcam, procesar los fotogramas y vectorizar en tiempo real los 21 landmarks de la mano, identificando además si se trata de la mano izquierda o derecha.
-  * *Próximo paso:* Implementación de un reconocedor de gestos geométrico basado en las distancias de los nodos.
+* **Hand Tracking & Vectorización en Tiempo Real:** Mi primer acercamiento serio a la visión artificial. Desarrollé un script en Python utilizando **OpenCV** y la nueva API de **MediaPipe Tasks** para capturar el feed de la webcam, procesar los fotogramas y vectorizar en tiempo real los 21 landmarks de la mano.
+* **Repo:** https://github.com/Benjam1nFares/HandTracking
 
 ---
 
