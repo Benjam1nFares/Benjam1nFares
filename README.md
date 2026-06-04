@@ -33,14 +33,6 @@ En mis tiempos libres me gusta experimentar con tecnologías que me llaman la at
 * **Hand Tracking & Vectorización en Tiempo Real:** Mi primer acercamiento serio a la visión artificial. Desarrollé un script en Python utilizando **OpenCV** y la nueva API de **MediaPipe Tasks** para capturar el feed de la webcam, procesar los fotogramas y vectorizar en tiempo real los 21 landmarks de la mano, identificando además si se trata de la mano izquierda o derecha.
   * *Próximo paso:* Implementación de un reconocedor de gestos geométrico basado en las distancias de los nodos.
 
-
-
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
-
 ---
 
 ### 📫 Contacto
