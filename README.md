@@ -1,16 +1,48 @@
-## Hi there 👋
+# ¡Hola! Soy un apasionado de la Ingeniería y el Software 👋
 
-<!--
-**Benjam1nFares/Benjam1nFares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente soy **estudiante de Ingeniería**, enfocado en el desarrollo de software y la administración de infraestructura IT. Me apasiona resolver problemas complejos, optimizar sistemas y explorar nuevas tecnologías, desde el desarrollo backend tradicional hasta soluciones modernas de automatización y visión artificial.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Stack Tecnológico
+
+### Lenguajes y Desarrollo de Software
+* **Java** (Proyectos académicos, JSP, arquitecturas MVC)
+* **Python** (Computer Vision, scripts de automatización)
+* **SQL** (Modelado y gestión de bases de datos con MySQL)
+
+### Infraestructura, Redes y Herramientas
+* **IT Infrastructure:** Administración de entornos, redes y troubleshooting de hardware.
+* **IDE & Herramientas:** Eclipse, PyCharm, Git & GitHub.
+
+---
+
+## 🎓 Proyectos Académicos (Facultad)
+
+Acá voy subiendo los trabajos prácticos y proyectos que desarrollo a lo largo de la carrera de ingeniería:
+
+* **Sistema de Gestión de Gimnasio:** Desarrollo de una aplicación web completa utilizando **Java, JSP y MySQL** en el entorno **Eclipse**. Implementa la lógica de negocio para administración de socios, planes y asistencia, aplicando conceptos avanzados de programación orientada a objetos y bases de datos.
+
+---
+
+## 🚀 Proyectos Personales & Hobbies
+
+En mis tiempos libres me gusta experimentar con tecnologías que me llaman la atención y desafiarme a aprender herramientas nuevas:
+
+### 👁️ Computer Vision (Visión por Computadora)
+* **Hand Tracking & Vectorización en Tiempo Real:** Mi primer acercamiento serio a la visión artificial. Desarrollé un script en Python utilizando **OpenCV** y la nueva API de **MediaPipe Tasks** para capturar el feed de la webcam, procesar los fotogramas y vectorizar en tiempo real los 21 landmarks de la mano, identificando además si se trata de la mano izquierda o derecha.
+  * *Próximo paso:* Implementación de un reconocedor de gestos geométrico basado en las distancias de los nodos.
+
+
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+</p>
+
+---
+
+### 📫 Contacto
+* benjaminfaresla@gmail.com
+* https://www.linkedin.com/in/benjamin-fares/
