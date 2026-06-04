@@ -22,6 +22,7 @@ Actualmente soy **estudiante de Ingeniería**, enfocado en el desarrollo de soft
 Acá voy subiendo los trabajos prácticos y proyectos que desarrollo a lo largo de la carrera de ingeniería:
 
 * **Sistema de Gestión de Gimnasio:** Desarrollo de una aplicación web completa utilizando **Java, JSP y MySQL** en el entorno **Eclipse**. Implementa la lógica de negocio para administración de socios, planes y asistencia, aplicando conceptos avanzados de programación orientada a objetos y bases de datos.
+* **Repo:** https://github.com/FranciscoBr16/TP-Java
 
 ---
 
