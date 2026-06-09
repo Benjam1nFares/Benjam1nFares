@@ -22,7 +22,7 @@ Actualmente soy **estudiante de Ingeniería**, enfocado en el desarrollo de soft
 Acá voy subiendo los trabajos prácticos y proyectos que desarrollo a lo largo de la carrera de ingeniería:
 
 * **Sistema de Gestión de Gimnasio:** Desarrollo de una aplicación web completa utilizando **Java, JSP y MySQL** en el entorno **Eclipse**. Implementa la lógica de negocio para administración de socios, planes y asistencia, aplicando conceptos avanzados de programación orientada a objetos y bases de datos.
-* **Repo:** https://github.com/FranciscoBr16/TP-Java
+* **Repo:** [TP-Java](https://github.com/FranciscoBr16/TP-Java)
 
 ---
 
@@ -32,12 +32,13 @@ En mis tiempos libres me gusta experimentar con tecnologías que me llaman la at
 
 ### 👁️ Computer Vision (Visión por Computadora)
 
-* **Hand Tracking & Vectorización en Tiempo Real:** Mi primer acercamiento serio a la visión artificial. Desarrollé un script en Python utilizando **OpenCV** y la nueva API de **MediaPipe Tasks** para capturar el feed de la webcam, procesar los fotogramas y vectorizar en tiempo real los 21 landmarks de la mano.
-* **Módulo de Poses:** Estructura inicial para el mapeo y traqueo de cuerpo completo (33 puntos clave del esqueleto) orientado al análisis de movimiento y biomecánica.
-* **Repo:** https://github.com/Benjam1nFares/ComputerVision
+* **[ComputerVision](https://github.com/Benjam1nFares/ComputerVision):** Espacio centralizado de investigación y desarrollo en visión artificial utilizando **Python** y **OpenCV**. El repositorio está estructurado en módulos evolutivos:
+  * **Módulo de Manos:** Vectorización en tiempo real de los 21 landmarks de la mano con la API de **MediaPipe Tasks** y reconocimiento dinámico de gestos (*wave* para saludos e insultos mediante geometría analítica).
+  * **Módulo de Poses:** Mapeo y traqueo de cuerpo completo (33 puntos clave del esqueleto) orientado al análisis de movimiento y biomecánica.
+  * **Módulo de Objetos con IA:** Implementación en tiempo real de **YOLOv8 (Ultralytics)** utilizando modelos convolucionales para localización y clasificación múltiple mediante *Bounding Boxes*.
 
 ---
 
 ### 📫 Contacto
-* benjaminfaresla@gmail.com
-* https://www.linkedin.com/in/benjamin-fares/
+* 📧 benjaminfaresla@gmail.com
+* 💼 [LinkedIn](https://www.linkedin.com/in/benjamin-fares/)
